@@ -1,0 +1,7 @@
+C:\Users\Scott\source\repos\CMP1127M Assessment 2\CMP1127M Assessment 2\obj\Debug\CMP1127M Assessment 2.csprojAssemblyReference.cache
+C:\Users\Scott\source\repos\CMP1127M Assessment 2\CMP1127M Assessment 2\obj\Debug\CMP1127M Assessment 2.csproj.CoreCompileInputs.cache
+C:\Users\Scott\source\repos\CMP1127M Assessment 2\CMP1127M Assessment 2\bin\Debug\CMP1127M Assessment 2.exe.config
+C:\Users\Scott\source\repos\CMP1127M Assessment 2\CMP1127M Assessment 2\bin\Debug\CMP1127M Assessment 2.exe
+C:\Users\Scott\source\repos\CMP1127M Assessment 2\CMP1127M Assessment 2\bin\Debug\CMP1127M Assessment 2.pdb
+C:\Users\Scott\source\repos\CMP1127M Assessment 2\CMP1127M Assessment 2\obj\Debug\CMP1127M Assessment 2.exe
+C:\Users\Scott\source\repos\CMP1127M Assessment 2\CMP1127M Assessment 2\obj\Debug\CMP1127M Assessment 2.pdb

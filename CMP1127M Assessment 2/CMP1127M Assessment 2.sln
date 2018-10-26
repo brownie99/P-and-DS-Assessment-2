@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMP1127M Assessment 2", "CMP1127M Assessment 2\CMP1127M Assessment 2.csproj", "{E416F36C-40AD-4B51-96E2-F33A14574F06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E416F36C-40AD-4B51-96E2-F33A14574F06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E416F36C-40AD-4B51-96E2-F33A14574F06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E416F36C-40AD-4B51-96E2-F33A14574F06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E416F36C-40AD-4B51-96E2-F33A14574F06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A90CE40-2930-4857-B4A9-1A0A744F5B94}
+	EndGlobalSection
+EndGlobal
